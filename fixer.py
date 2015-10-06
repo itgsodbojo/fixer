@@ -20,7 +20,7 @@ def valuta(from_currency,to_currency,amount):
 # in a terminal do
 # chmod +x fixer.py
 
-# run the program with ./fixer [args]
+# run the program with ./fixer.py [args]
 if __name__ == "__main__":
 
 
