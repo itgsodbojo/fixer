@@ -11,7 +11,7 @@ Ni ska göra ett program som läser in ett belopp och från vilken valuta du vil
     
     
     
-Nästa steg är att göra ett körbart program som interagerar med användaren.
+Nästa steg är att göra ett körbart program som interagerar med användaren. 
 
 
 ##TODO
